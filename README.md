@@ -1,6 +1,6 @@
 # Hi, I'm Snehal Kamthekar 👋
 
-Aspiring **Machine Learning Engineer** | Python, Pandas, NumPy, Scikit-Learn, PyTorch | AI & Data Projects
+Aspiring **Machine Learning Engineer** | 🐍 Python | 📊 Pandas | 🔢 NumPy | 📉 Matplotlib | 📊 Seaborn | 🤖 Scikit-Learn | 🧠 PyTorch | AI & Data Projects
 
 ---
 
