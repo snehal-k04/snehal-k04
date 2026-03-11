@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Snehal Kamthekar 
 
-<!--
-**snehal-k04/snehal-k04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Machine Learning Engineer** | Python, Pandas, NumPy, Scikit-Learn | AI & Data Projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+- Graduate passionate about **AI/ML and data-driven solutions**
+- Strong hands-on experience with **Python, ML mini-projects, and data science**
+- Always learning **Deep Learning, NLP, and modern AI techniques**
+
+---
+
+## 🛠️ Skills
+**Programming & ML:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, PyTorch  
+**Data & Databases:** SQL, Data Preprocessing, Data Visualization  
+**Others:** Git, GitHub, Flask, Docker basics  
+
+---
+
+## 🚀 Projects
+Here are some projects you can check out:
+
+1. **[Python-ml--practice](https://github.com/snehal-k04/Python-ml--practice)** – Collection of ML practice notebooks, web scraping, API usage, and data analysis  
+2. **[Machine-Learning-(mini projects)](https://github.com/snehal-k04/Machine-Learning-(mini-projects))** – Mini projects in ML showcasing different datasets and models  
+
+> Each project has clear **README with instructions, results, and learning outcomes**.
+
+---
+
+## 📫 Connect with Me  
+- **Email:** snehalkamthekar123@gamail.com
