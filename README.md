@@ -57,7 +57,7 @@ snehal = {
 </div>
 
 [![GitHub](https://img.shields.io/badge/github-snehal--k04-181717?style=flat-square&logo=github)](https://github.com/snehal-k04)
----
+[![Email](https://img.shields.io/badge/email-snehalkamthekar123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:snehalkamthekar123@gmail.com)
 
 <div align="center">
 
