@@ -54,17 +54,15 @@ snehal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=snehal-k04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehal-k04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff" height="165"/>
-
 </div>
 
+[![GitHub](https://img.shields.io/badge/github-snehal--k04-181717?style=flat-square&logo=github)](https://github.com/snehal-k04)
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/github-snehal--k04-181717?style=flat-square&logo=github)](https://github.com/snehal-k04)
+
 
 </div>
