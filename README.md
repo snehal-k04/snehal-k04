@@ -14,7 +14,7 @@
 snehal = {
     "focus"  : ["Machine Learning", "Deep Learning", "Reinforcement Learning"],
     "tools"  : ["Python", "PyTorch", "Scikit-learn", "Pandas", "Jupyter"],
-    "goal"   : "AI/ML Engineer — building things that actually work"
+    "goal"   : "Aspiring AI/ML Engineer | learning by building"
 }
 ```
 
