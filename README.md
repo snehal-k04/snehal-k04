@@ -41,8 +41,9 @@ snehal = {
 <div align="center">
 
 | Project | Description | Stack |
-|---|---|---|
+| --- | --- | --- |
 | [🎮 RL Flappy Bird](https://github.com/snehal-k04/RL_flappy_bird) | DQN agent that learns to play Flappy Bird — experience replay, epsilon-greedy, target network | `PyTorch` `DQN` `Pygame` |
+| [📝 Text Summarizer App](https://github.com/snehal-k04/Text_Summarizer_app) | Web app that summarizes text using a fine-tuned T5 model — FastAPI backend, HTML frontend | `FastAPI` `T5` `HuggingFace` |
 | [🧠 ML Mini Projects](https://github.com/snehal-k04/ML_mini_projects) | 8 end-to-end ML/DL projects — CNNs, RNNs, ANN, classification & recommendations | `PyTorch` `Scikit-learn` |
 | [🌐 API & Web Scraping](https://github.com/snehal-k04/API-Web-Scraping) | REST API integration, web scraping & real-world data analysis notebooks | `BeautifulSoup` `Pandas` |
 
