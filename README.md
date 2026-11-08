@@ -48,7 +48,7 @@ snehal = {
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [🧑‍🏫 The Absentee: AI Attendance](https://github.com/snehal-k04/AI-Attendance-App) | Attendance system using face and voice recognition. App deployed on Streamlit (private for now), with a landing page live on Vercel: [the-absentee-landing-page.vercel.app](https://the-absentee-landing-page.vercel.app/) | `Streamlit` `Supabase` `Face Recognition` `Vercel` |
+| [🧑‍🏫 The Absentee: AI Attendance](https://github.com/snehal-k04/AI-Attendance-App) | Attendance system using face and voice recognition. App deployed on Streamlit, with a landing page live on Vercel: [the-absentee-landing-page.vercel.app](https://the-absentee-landing-page.vercel.app/) | `Streamlit` `Supabase` `Face Recognition` `Vercel` |
 | [🎨 NST-AdaIN Style Transfer](https://github.com/snehal-k04/Adain-Style-Transfer) | Arbitrary neural style transfer using AdaIN, trained on MS-COCO and Painter by Numbers (Kaggle and Colab). Flask app live on Render: [live demo](https://adain-style-transfer-62nb.onrender.com/) | `PyTorch` `AdaIN` `Flask` `Render` |
 | [🎮 RL Flappy Bird](https://github.com/snehal-k04/RL_flappy_bird) | DQN agent that learns to play Flappy Bird: experience replay, epsilon-greedy, target network | `PyTorch` `DQN` `Pygame` |
 | [📝 Text Summarizer App](https://github.com/snehal-k04/Text_Summarizer_app) | Web app that summarizes text using a fine-tuned T5 model, FastAPI backend, HTML frontend | `FastAPI` `T5` `HuggingFace` |
