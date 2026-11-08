@@ -13,7 +13,7 @@
 ```python
 snehal = {
     "focus"  : ["Machine Learning", "Deep Learning", "Computer Vision", "NLP", "Reinforcement Learning"],
-    "tools"  : ["Python", "PyTorch", "Scikit-learn", "Hugging Face", "FastAPI", "Streamlit"],
+    "tools"  : ["Python", "PyTorch", "Scikit-learn", "Hugging Face", "FastAPI", "Flask", "Streamlit"],
     "goal"   : "Aspiring AI/ML Engineer | learning by building"
 }
 ```
@@ -29,11 +29,13 @@ snehal = {
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -46,8 +48,8 @@ snehal = {
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [🧑‍🏫 The Absentee: AI Attendance](https://github.com/snehal-k04/YOUR_ATTENDANCE_REPO) | Attendance system using face and voice recognition. App deployed on Streamlit (private for now), with a landing page live on Vercel | `Streamlit` `Supabase` `Face Recognition` `Vercel` |
-| [🎨 NST-AdaIN Style Transfer](https://github.com/snehal-k04/YOUR_NST_REPO) | Arbitrary neural style transfer using AdaIN, trained on Colab. Code only, not deployed | `PyTorch` `AdaIN` `Computer Vision` |
+| [🧑‍🏫 The Absentee: AI Attendance](https://github.com/snehal-k04/AI-Attendance-App) | Attendance system using face and voice recognition. App deployed on Streamlit (private for now), with a landing page live on Vercel: [the-absentee-landing-page.vercel.app](https://the-absentee-landing-page.vercel.app/) | `Streamlit` `Supabase` `Face Recognition` `Vercel` |
+| [🎨 NST-AdaIN Style Transfer](https://github.com/snehal-k04/Adain-Style-Transfer) | Arbitrary neural style transfer using AdaIN, trained on MS-COCO and Painter by Numbers (Kaggle and Colab). Flask app live on Render: [live demo](https://adain-style-transfer-62nb.onrender.com/) | `PyTorch` `AdaIN` `Flask` `Render` |
 | [🎮 RL Flappy Bird](https://github.com/snehal-k04/RL_flappy_bird) | DQN agent that learns to play Flappy Bird: experience replay, epsilon-greedy, target network | `PyTorch` `DQN` `Pygame` |
 | [📝 Text Summarizer App](https://github.com/snehal-k04/Text_Summarizer_app) | Web app that summarizes text using a fine-tuned T5 model, FastAPI backend, HTML frontend | `FastAPI` `T5` `HuggingFace` |
 | [🧠 ML Mini Projects](https://github.com/snehal-k04/ML_mini_projects) | 8 end-to-end ML/DL projects: CNNs, RNNs, ANN, classification & recommendations | `PyTorch` `Scikit-learn` |
